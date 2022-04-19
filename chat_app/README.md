@@ -1,7 +1,6 @@
-# chat_app
+# Chatify
 
-A new Flutter project.
-
+A whatsapp clone like app with frontend and backend developed using Flutter SDK, NodeJS and Socket.io which provides features of whatsapp like one to one communication, image sharing through captures stored locally as well as in live camera.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
